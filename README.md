@@ -32,7 +32,7 @@ Também recomendamos o uso de diagramas como os deste repositório:
 
 ## 👥 Autoria
 
-Esse repositório foi desenvolvido por [José Carlos Menezes (Kaze)](https://github.com/...) como parte da trilha de formação em Cybersecurity do projeto **Vai na Web + Kensei CyberSec Lab**.
+Esse repositório foi desenvolvido por [José Carlos Menezes](https://github.com/Kensei-CyberSec-Lab/) como parte da trilha de formação em Cybersecurity do projeto **Vai na Web + Kensei CyberSec Lab**.
 
 ---
 
