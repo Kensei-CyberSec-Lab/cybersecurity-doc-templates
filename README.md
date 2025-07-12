@@ -1,8 +1,8 @@
-# CyberSec Docs Examples 🛡️
+# CyberSec Docs Examples 
 
 Repositório público com exemplos de documentos técnicos usados em projetos de Cibersegurança e Redes. Criado como material complementar para formações e treinamentos práticos.
 
-## 🎯 Objetivo
+## Objetivo
 
 Demonstrar como criar documentação técnica profissional seguindo boas práticas de clareza, estrutura e foco em valor. Útil para estudantes, analistas e consultores que atuam com:
 
@@ -11,7 +11,7 @@ Demonstrar como criar documentação técnica profissional seguindo boas prátic
 - Resposta a incidentes
 - Governança e continuidade
 
-## 📂 Conteúdo
+## Conteúdo
 
 | Documento                     | Descrição                                                      |
 |------------------------------|-----------------------------------------------------------------|
@@ -21,7 +21,7 @@ Demonstrar como criar documentação técnica profissional seguindo boas prátic
 | `relatorio_soc.md`           | Relatório mensal com KPIs e tendências de segurança operacional|
 | `threat_intelligence.md`     | Análise de ameaças com IOCs e táticas de grupos APT            |
 
-## 🧱 Templates
+## Templates
 
 A pasta `templates/` contém:
 - `template_base.md`: estrutura genérica pronta para adaptar
